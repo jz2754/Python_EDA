@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 # print statement
 
 print("*")
@@ -8,16 +12,25 @@ print("****")
 print("***")
 print("**")
 print("*")
+<<<<<<< HEAD
 print("******************")
 
 # variables
 
 
+=======
+
+
+
+# variables
+
+>>>>>>> origin/main
 character_name = "John"
 character_age = "35"
 
 print("There once was a man named " + character_name + ",")
 print("he was " + character_age + " years old.")
+<<<<<<< HEAD
 
 # change line
 print("zhou \njingwei")
@@ -140,3 +153,5 @@ print(useful_tools_test1.roll_dice(99))
 
 
 
+=======
+>>>>>>> origin/main
